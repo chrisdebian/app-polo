@@ -97,7 +97,7 @@
     "yaml": "2.9.0"
   },
   "devDependencies": {
-    "@babel/core": "7.27.1",
+    "@babel/core": "7.29.6",
     "@babel/preset-env": "7.27.2",
     "@babel/runtime": "7.27.1",
     "@react-native-community/cli": "20.1.3",
